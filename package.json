@@ -1,0 +1,22 @@
+{
+  "name": "myclinic-data",
+  "version": "1.0.0",
+  "description": "Data access/modify module for myclinic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hangilc/myclinic-data.git"
+  },
+  "author": "Hangil Chang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hangilc/myclinic-data/issues"
+  },
+  "homepage": "https://github.com/hangilc/myclinic-data#readme",
+  "dependencies": {
+    "myclinic-db": "^0.2.14"
+  }
+}
